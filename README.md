@@ -1,4 +1,4 @@
-# ❤️ Sweet lyrics reveal
+# ❤️ Sweet lyrics 
 
 A cute website built with love 💖  
 Sweet, simple, and made to bring a smile to someone special ✨ 
@@ -19,10 +19,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/sweet-lyrics-reveal.git
+git clone https://github.com/hamidanoo/Liza/tree/main
 
 # Navigate into the folder
-cd sweet-lyrics-reveal
+cd Liza
 
 # Install dependencies
 npm install
@@ -39,18 +39,17 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📷 Instagram: [Hamid Shah](https://instagram.com/hamidanoo56)
+- 🐦 Twitter: [Hamid Shah](https://twitter.com/hamidanoo56)
+- 💼 LinkedIn: [Hamid Shah](https://linkedin.com/in/hamidanoo56)
 
 ---
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/hamidanoo)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **Anuj** – _@hamidanoo_
 
 ---
 
