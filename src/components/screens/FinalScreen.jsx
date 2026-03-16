@@ -35,7 +35,7 @@ export default function FinalScreen() {
         Forever Mine ❤️
       </h1>
       <p className="text-pink-200/80 font-medium text-lg">
-        I love you so much Alia ❤️
+        I love you so much Aliza ❤️
       </p>
     </motion.div>
   </motion.div>
