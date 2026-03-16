@@ -24,10 +24,10 @@ export default function Screen1({ onNext }) {
 
             <div className="space-y-3 relative z-10">
                 <h1 className="text-3xl font-extrabold tracking-tight text-transparent bg-clip-text bg-linear-to-br from-pink-200 via-pink-300 to-rose-200 drop-shadow-[0_2px_10px_rgba(244,114,182,0.3)] leading-tight">
-                    I have something for you...
+                    I made something special for you Aliza...
                 </h1>
                 <p className="text-pink-200/70 font-medium text-lg">
-                    It will only take a moment
+                    Bas tora sa time 😌
                 </p>
             </div>
 
@@ -38,7 +38,7 @@ export default function Screen1({ onNext }) {
                 className="w-full mt-2 px-8 py-4 bg-linear-to-r from-[#ff4d6d] to-[#ff758f] rounded-4xl font-semibold text-white shadow-[0_0_20px_rgba(255,77,109,0.4)] transition-all flex items-center justify-center gap-2 text-lg relative group overflow-hidden will-change-transform"
             >
                 <span className="relative z-10 flex items-center gap-2">
-                    Open it <Heart className="w-5 h-5 fill-current" />
+                    Click Here <Heart className="w-5 h-5 fill-current" />
                 </span>
             </motion.button>
         </motion.div>
