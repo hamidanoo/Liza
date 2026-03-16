@@ -49,7 +49,7 @@ Follow me for more emotional surprise websites and creative dev content:
 
 If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/hamidanoo)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@hamidanoo_
+Made with emotions by **Hamid Shah** – _@hamidanoo_
 
 ---
 
